@@ -1,0 +1,22 @@
+# Pastas de compilação e binários
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de configuração do Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.md
+
+# Pacotes NuGet
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Configurações locais (Segurança!)
+appsettings.Development.json
+appsettings.Local.json
+appsettings.json
+launchSettings.json
